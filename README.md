@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">Hey, I'm Nur Aini 👋</h1>
+<p align="center">
+  <em>Informatics Student • Web Developer • UI/UX Design Enthusiast</em>
+</p>
 
-<!--
-**nasthaa/nasthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=9046ff&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Small aesthetic gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🖤 About Me
+```yaml
+name: "Nur Aini"
+role: "Informatics Engineering Student"
+focus: ["Web Development", "UI/UX Design", "Software Engineering"]
+mission: "Build meaningful tech that contributes to society"
+currently-learning: "Tailwind, REST API, System Design"
+🌙 Tech Stack
+Languages & Tools
+<br>
+
+
+
+
+
+
+
+
+
+
+
+🎮 Playful GitHub Activity (Snake)
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
+📊 GitHub Stats (Dark Mode)
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+📬 Connect
+<p align="center"> <a href="https://www.instagram.com/USERNAME" target="_blank"> <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="mailto:YOUR-EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
+<p align="center"><em>Thanks for visiting — have a great day! 🌙✨</em></p> ```
