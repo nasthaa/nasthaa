@@ -39,7 +39,7 @@ Languages & Tools
 🎮 Playful GitHub Activity (Snake)
 <p align="center"> <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
 📊 GitHub Stats (Dark Mode)
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=nasthaa&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=nasthaa&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasthaa&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 📬 Connect
 <p align="center"> <a href="https://www.instagram.com/ainagusthina" target="_blank"> <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="mailto:althanazaen@gmail.com"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
 <p align="center"><em>Thanks for visiting — have a great day! 🌙✨</em></p> 
