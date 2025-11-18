@@ -17,7 +17,6 @@
 ---
 
 ### 🖤 About Me
-```yaml
 name: "Nur Aini"
 role: "Informatics Engineering Student"
 focus: ["Web Development", "UI/UX Design", "Software Engineering"]
