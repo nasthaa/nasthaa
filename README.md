@@ -37,7 +37,7 @@ Languages & Tools
 
 
 🎮 Playful GitHub Activity (Snake)
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nasthaa/nasthaa/output/github-contribution-grid-snake-dark.svg" /> </p>
 📊 GitHub Stats (Dark Mode)
 <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=nasthaa&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasthaa&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 📬 Connect
