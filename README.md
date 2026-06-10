@@ -53,7 +53,7 @@ currently-learning: "Tailwind, REST API, System Design"
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nasthaa&show_icons=true&theme=tokyonight&hide_border=true" />
